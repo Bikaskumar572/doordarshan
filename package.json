@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  },
+  "name": "doordarshan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikaskumar572/doordarshan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bikaskumar572/doordarshan/issues"
+  },
+  "homepage": "https://github.com/Bikaskumar572/doordarshan#readme",
+  "description": ""
+}
